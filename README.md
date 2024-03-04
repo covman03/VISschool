@@ -1,1 +1,1 @@
-# VISschool1
+# VISschool
